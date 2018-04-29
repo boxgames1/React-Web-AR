@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/boxgames1/React-Web-AR.svg?branch=master)](https://travis-ci.org/boxgames1/React-Web-AR)
+
 # React-Web-AR
 > Experimental and work in progress 🚧
 
